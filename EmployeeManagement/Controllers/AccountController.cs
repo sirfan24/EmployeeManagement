@@ -5,6 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using EmployeeManagement.Models;
 using EmployeeManagement.ViewModels;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -292,6 +293,7 @@ namespace EmployeeManagement.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(LoginViewModel model, string returnUrl)
         {
+            
             model.ExternalLogins = (await signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
             if (ModelState.IsValid)
@@ -331,7 +333,7 @@ namespace EmployeeManagement.Controllers
                 ModelState.AddModelError(string.Empty, "Invalid Login Attempt");
             }
 
-            return View();
+            return View(model);
         }
 
         [HttpGet]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KL1dEByiyZLUuZ6kAKc+xGtP0o8KOTOZHP1ZxFdaIUX+iLZIITNlEe3SD2lr3AnhQs1zK+v6NFww6ny0Nqrqyg==",
+  "dgSpecHash": "4uaSh9Z6fxNKtF5cOa0goqdJLg1Oq7I1bH9G9jIVXLVtvPbo9HB1HR9eyM/XrmEZhE7B9hUWjpdaGLR9f6ElRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isyed\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.3\\microsoft.aspnetcore.authentication.facebook.3.1.3.nupkg.sha512",
     "C:\\Users\\isyed\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.3\\microsoft.aspnetcore.authentication.google.3.1.3.nupkg.sha512",

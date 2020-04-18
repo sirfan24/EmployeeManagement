@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\isyed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isyed\\source\\repos\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\GIT\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
